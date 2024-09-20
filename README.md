@@ -1,6 +1,3 @@
-Got it! Here's the README description for GitHub, explaining how you made the portfolio:
-
----
 
 # Personal Portfolio Website
 
